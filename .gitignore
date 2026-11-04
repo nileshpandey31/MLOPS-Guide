@@ -1,0 +1,9 @@
+/Module 1/Notes.txt
+#.gitignore
+/Module 1/Assignment/Assignment_Proof
+/artifacts
+/mlartifacts
+mlflow.db
+/Module 3/nyc-taxi-ml-pipeline/mlartifacts
+/Module 3/nyc-taxi-ml-pipeline/src/__pycache__
+/Module 3/.venv
